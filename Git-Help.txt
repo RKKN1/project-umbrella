@@ -1,0 +1,49 @@
+1. 'git init': Initializes a new Git repository in your project directory. You'll run this command once at the beginning of your project.
+
+2. 'git clone <repository-url>`: Downloads an existing Git repository from a remote server (like GitHub) to your local machine. Replace `<repository-url>` with the actual URL of your UE5 project repository.
+
+3. 'git status': Shows the current status of your working directory. It displays information about untracked files, modified files, and staged changes.
+
+4. 'git add <file>': Stages changes for commit. Use this command to add specific files to the staging area.
+ For example:
+ 
+   ```
+   git add MyLevel.umap
+   
+   ```
+
+5. 'git commit -m "Your commit message here" ': Creates a new commit with the changes you've staged. Always include a descriptive commit message to explain what you've done.
+
+6. `git pull`: Fetches changes from the remote repository and merges them into your local branch. Useful for keeping your local copy up to date with the latest changes.
+
+7. `git push`: Sends your local commits to the remote repository. Use this to share your work with your team.
+
+8. `git log`: Displays a history of commits. Useful for tracking changes and understanding the project's development timeline.
+
+9. `git branch`: Lists all branches in your repository. You'll often use this to see which branch you're currently on.
+
+10. `git checkout <branch-name>`: Switches to a different branch. 
+For example, to switch to the `development` branch:
+
+    ```
+    git checkout development
+    
+    ```
+
+11. `git merge <branch-name>`: Merges changes from one branch into another. Be cautious with this command, especially when dealing with feature branches.
+
+12. `git stash`: Temporarily saves your changes without committing them. Useful when you need to switch branches but don't want to commit unfinished work.
+
+13. `git remote -v`: Lists the remote repositories associated with your local repository. Verify that your UE5 project's remote (usually on GitHub) is correctly set up.
+
+14. `git fetch`: Retrieves changes from the remote repository without merging them. Useful for checking if there are updates without automatically applying them.
+
+15. `git reset --hard HEAD`: Discards all changes in your working directory and resets to the last committed state. Be cautious with this—it's irreversible!
+
+
+
+Source: Conversation with Copilot, 9/19/2024
+(1) Git with Unreal Engine 5 - A Beginner's Guide to Version Control. https://www.anchorpoint.app/blog/git-with-unreal-engine-5.
+(2) 3. Unreal Engine 5 C++ | Git (LFS) and GitHub - Command Line and Rider. https://dev.epicgames.com/community/learning/tutorials/w6Wz/3-unreal-engine-5-c-git-lfs-and-github-command-line-and-rider.
+(3) Unreal Engine 5 Git Source Control Plugin - GitHub. https://github.com/SRombauts/UEGitPlugin.
+(4) Community Tutorial: 3. Unreal Engine 5 C++ - Epic Developer Community .... https://forums.unrealengine.com/t/community-tutorial-3-unreal-engine-5-c-git-lfs-and-github-command-line-and-rider/1854081.
