@@ -1,0 +1,110 @@
+
+® 2024,
+SOULWORKS INTERACTIVE.
+
+-----------------------------------------------------------------
+---------
+UE5
+CAMERA CONTROL GUIDE
+BINDININGS AND SHORTCUTS
+-----------------------------------------------------------------
+-----------------------------------------------------------------   
+-----------------------------------------------------------------
+
+
+----------------------------------
+Camera Movement
+----------------------------------
+
+WASD/Arrow Keys: Move the camera forward, backward, left, and right.
+Shift + W: Move the camera forward (faster than WASD)
+Shift + S: Move the camera backward (faster than WASD)
+Shift + A: Move the camera left (faster than WASD)
+Shift + D: Move the camera right (faster than WASD)
+Ctrl + W: Move the camera up
+Ctrl + S: Move the camera down
+Ctrl + A: Move the camera left (slower than WASD)
+Ctrl + D: Move the camera right (slower than WASD)
+
+
+-----------------------------------------------------------------
+--------------------------
+Camera Zoom
+-------------------------
+
+Mouse Wheel: Zoom the camera in and out.
+Ctrl + Mouse Wheel: Zoom the camera in and out more slowly and precisely.
+Shift + Mouse Wheel: Zoom the camera in and out more quickly.
+Ctrl + Shift + Mouse Wheel: Zoom the camera in and out (more slowly and precisely)
+
+
+-----------------------------------------------------------------
+-------------------------------------------------------
+Camera Rotation and Orbiting
+-------------------------------------------------------
+
+RMB (Right-Mouse Button) + Drag: Orbit the camera around the pivot point (default is the selected object or the center of the screen).
+RMB (Right-Mouse Button) + Shift + Drag: Pan the camera horizontally and vertically.
+Shift + RMB (Right-Mouse Button) + Drag: Pan the camera horizontally and vertically (alternative to Ctrl + RMB)
+Ctrl + RMB (Right-Mouse Button) + Drag: Dolly the camera forward and backward.
+Ctrl + Shift + RMB (Right-Mouse Button) + Drag: Rotate the camera (rotate the camera around its own axis).
+Alt + RMB (Right-Mouse Button) + Drag: Snap the camera to a specific angle (e.g., 90 degrees) while orbiting.
+Alt + LMB (Left-Mouse Button) + Drag: Rotate the camera around the horizontal axis.
+Alt + RMB (Right-Mouse Button) + Drag: Rotate the camera around the vertical axis.
+Ctrl + Alt + LMB (Left-Mouse Button) + Drag: Rotate the camera around the depth axis (roll).
+
+
+-----------------------------------------------------------------
+-------------------------------------------------
+Camera Pivot and Position
+------------------------------------------------
+
+Spacebar: Toggle the camera's pivot point between the selected object and the center of the screen.
+Spacebar + LMB (Left-Mouse Button) + Drag: Move the camera's pivot point.
+Spacebar + RMB (Right-Mouse Button) + Drag: Move the camera's pivot point (alternative to Spacebar + LMB).
+Home: Toggle the camera to its default position and orientation.
+
+
+-----------------------------------------------------------------
+--------------------------------------------------------
+Camera Modes and Projection
+--------------------------------------------------------
+
+F1: Switch to Camera mode.
+F2: Switch to Orthographic camera mode.
+F3: Switch to Isometric camera mode.
+F4: Switch to Camera Lock mode (locks the camera to the current orientation).
+F5: Switch to Camera Unlock mode (unlocks the camera from its current orientation).
+End: Toggle the camera's orthographic projection on and off.
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Camera Bookmarks and Screenshots
+-----------------------------------------------------------------
+
+Ctrl + Shift + F1-F12: Save and recall camera bookmarks (up to 12 bookmarks)
+Ctrl + F1-F12: Load saved camera bookmarks.
+F11: Toggle the camera's HUD (heads-up display) on and off.
+F12: Take a screenshot of the current camera view.
+
+
+-----------------------------------------------------------------
+-------------------------
+Miscellaneous
+-------------------------
+
+Ctrl + 0: Reset the camera's zoom to its default value.
+Ctrl + Shift + F: Toggle the camera's frame rate display on and off.
+Page Up/Page Down: Move the camera up and down (in orthographic projection mode only).
+
+
+-----------------------------------------------------------------                                                                            
+  |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|TEARLINE|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+
+
+
+
+                                                                                                                                                                                      Ω
+                                                                                                                                                              ----------------ω--------ω----------------                   
+                                                                                                                                                               KILROY WAS HERE
